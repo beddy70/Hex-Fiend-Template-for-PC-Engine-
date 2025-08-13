@@ -30,7 +30,7 @@ Open palette bin file and select PCE_Palette in template window.
 Open BAT bin file and select PCE_BAT_W32 in template window. 
 W32 is for BAT width 32 tiles (256 pixels)
 
-<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/palette_template.png" width="350" >
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/bat32_template.png" width="350" >
 
 ### PCE_Tiles.tcl
 
