@@ -10,7 +10,9 @@ Next go to Contents/Ressources/templates and copy directory PC-Engine folder.
 
 ## Use
 
-Open <b>Views</b> menu from Hex-Fiendapplication and select <b>Binary Templates</b>. Next, in template window find PC-Engien section.
+Open <b>Views</b> menu from Hex-Fiendapplication and select <b>Binary Templates</b>. 
+
+Next, in template window find PC-Engine section.
  
 ### PCE_Palette.tcl
 
