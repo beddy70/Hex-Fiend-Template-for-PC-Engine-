@@ -36,6 +36,12 @@ W32 is for BAT width 32 tiles (256 pixels)
 
 Open tiles bin file and select PCE_Tiles in template window. 
 
-<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/palette_template.png" width="350" >
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tiles_template1.png" width="350" >
+
+<i>Note : 0 index color is show like underscore char. </i>
+
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tiles_template2.png" width="350" >
+
+<i>Note : you have eight hexadeciaml number [1-F] for index color of tile</i>
 
 <i>Note : 0 index color is show like underscore char. </i>
