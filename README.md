@@ -8,5 +8,16 @@ Next go to Contents/Ressources/templates and copy directory PC-Engine folder.
 
 <img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tempalte_folder.png" width="550" >
 
-## Using 
+## Use
+
+
+
+### PCE_Palette.tcl
+
+
+
+### PCE_BAT_W32.tcl
+
+
+### PCE_Tiles.tcl
 
