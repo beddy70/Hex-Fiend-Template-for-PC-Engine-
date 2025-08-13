@@ -1,7 +1,7 @@
 # Hex-Fiend Template for PC-Engine
 PC-Engine templates to read BAT, palette and Tiles bin files
 
-<a href="[my-custom-anchor-point](https://github.com/HexFiend)">Github Hex-Fiend Editor</a>
+[Github Hex-Fiend Editor](https://github.com/HexFiend)
 
 ## Instalation
 
