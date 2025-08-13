@@ -6,4 +6,4 @@
 Go on Application folder and right-click mouse (or Control + Click) on the app icon. Then select “Show Package Contents” from the menu. 
 Next go to Contents/Ressources/templates and copy directory PC-Engine folder. 
 
-<img src="[https://your-image-url.type](https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tempalte_folder.png)" width="250" >
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tempalte_folder.png" width="250" >
