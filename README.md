@@ -12,7 +12,7 @@ Next go to Contents/Ressources/templates and copy directory PC-Engine folder.
 
 Open <b>Views</b> menu from Hex-Fiendapplication and select <b>Binary Templates</b>. 
 
-<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/menu_view.png" width="350" >
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/menu_views.png" width="350" >
 
 Next, in template window find PC-Engine section.
  
