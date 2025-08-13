@@ -17,8 +17,12 @@ Open <b>Views</b> menu from Hex-Fiendapplication and select <b>Binary Templates<
 Next, in template window find PC-Engine section.
 
 <img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/template_menu.png" width="350" >
+
 ### PCE_Palette.tcl
 
+Open palette bin file with and select PCE_Palette in template window. 
+
+<img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/palette_template.png" width="350" >
 
 
 ### PCE_BAT_W32.tcl
