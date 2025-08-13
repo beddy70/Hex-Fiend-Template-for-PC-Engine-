@@ -42,6 +42,6 @@ Open tiles bin file and select PCE_Tiles in template window.
 
 <img src="https://github.com/beddy70/Hex-Fiend-Template-for-PC-Engine-/blob/main/images/tiles_template2.png" width="350" >
 
-<i>Note : you have eight hexadeciaml number [1-F] for index color of tile</i>
+<i>Note : you have eight hexadeciaml number par line [1-F] for index color</i>
 
 <i>Note : 0 index color is show like underscore char. </i>
